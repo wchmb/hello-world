@@ -1,2 +1,4 @@
-Another hello-world repo
-
+* Another hello-world repo
+Quick and dirty repo for learnig/testing purposes
+- How to PR
+- Obscure rebases...
